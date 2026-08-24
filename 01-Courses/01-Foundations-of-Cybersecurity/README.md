@@ -85,12 +85,16 @@ A **password attack** is an attempt to access password-secured devices, systems,
 * Rainbow table
 
 
+
+## Social engineering
+
+
+
+
+
 ## Phishing 
-
-
-
-
-
+  
+   Phishing is the use of digital communications to trick people into revealing sensitive data of deploying malicious software Types of phishing Business email compromise (BEC) is when a threat actor sends an email message that seems to be from known source to make a seemingly a true request for information , in order to obtain a financial advantage. Spear phishing is a malicious email attack that targets a specific user or group of users. The email seems to originate from a trusted source. Whaling is also a form of spear phishing . It is when a threat actors targets company executives to gain access to sensitive data . Vishing its is the exploitation of electronic voice communication to obtain sensitive information or impersonate a known source. Smishing is the use of text messages to trick users in order to obtain sensitive information.
 
 
 
