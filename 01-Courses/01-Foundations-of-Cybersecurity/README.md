@@ -44,7 +44,7 @@ security professionals must understand and comply with laws and regulations that
 
 ### Deliberate PII handling 
 
-PII is personally identifiable information, so organizations must be deliberate about how PII or SPII is handled , where it is stored and consistently aware of iits storage location.
+PII is personally identifiable information, so organizations must be deliberate about how PII or SPII is handled , where it is stored and consistently aware of its storage location.
 
 **Consequences of Non-Compliance**
 
@@ -86,13 +86,13 @@ A **password attack** is an attempt to access password-secured devices, systems,
 
 
 
-## Social engineering
+### Social engineering
+
+Social engineering is one of the most hacking techniques used , it is a manipulation technique that exploits human error to gain access to private information. Human error is the result of trusting someone without a question the hacker creates an environment of false trust and lies to exploit many people as possible.
+In order to achieve social engineering you need to follow a few tactics 1st is authority , they impersonate individuals with power on purpose , because people are condition to respect and follow authority figures. 2nd is intimidation they do this by bullying and persuasion. 3rd is consensus for example a threat actor might try to gain access to private data by telling an employee that other people at the company have given them access to the data in the past . 4th is scarcity it is used to show that services are limited . 5th is urgency , attacker persuades others to respond quickly and without questioning. And the last one is trust , it is when an attacker builds and emotional relationship with the user so it can be exploited over time.
 
 
-
-
-
-## Phishing 
+### Phishing 
   
    Phishing is the use of digital communications to trick people into revealing sensitive data of deploying malicious software Types of phishing Business email compromise (BEC) is when a threat actor sends an email message that seems to be from known source to make a seemingly a true request for information , in order to obtain a financial advantage. Spear phishing is a malicious email attack that targets a specific user or group of users. The email seems to originate from a trusted source. Whaling is also a form of spear phishing . It is when a threat actors targets company executives to gain access to sensitive data . Vishing its is the exploitation of electronic voice communication to obtain sensitive information or impersonate a known source. Smishing is the use of text messages to trick users in order to obtain sensitive information.
 
