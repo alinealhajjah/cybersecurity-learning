@@ -22,7 +22,7 @@ Their responsibilities consists of :
 * improve security practices
 * document incidents and findings
 
-   For an entry security analysts they are not required to do all of this since they will gain experience as they are working.
+   For an entry level security analysts they are not required to do all of this since they will gain experience as they are working.
    But most importantly they should be able to monitor systems , protect information and search for weaknesses.
 ---
 
@@ -50,6 +50,54 @@ PII is personally identifiable information, so organizations must be deliberate 
 
 * Failure to meet PII obligations can lead to government regulators inspecting a company's data handling practices.
 * Customers and businesses may directly inquire about data handling, impacting customer relationships, especially with sensitive data.
+
+---
+
+## Types of attacks
+
+### Physical attacks 
+
+A security incident that affects digital and physical environments where the incident is deployed 
+
+* Malicious USB cable
+* Malicious flash drive
+* card cloning and kimming 
+
+### Supply-chain attack
+
+A **supply-chain attack** targets systems, applications, hardware, and/or software to locate a vulnerability where malware can be deployed.These attacks are costly because they can affect multiple organizations and the individuals who work for them.
+
+
+### Cryptographic attacks
+
+**cryptographic attack** affects secure forms of communication between a sender and intended recipient. Some forms of cryptographic attacks are: 
+
+* Birthday
+* Collision
+* Downgrade
+   
+
+### Password attack
+
+A **password attack** is an attempt to access password-secured devices, systems, networks, or data. 
+
+* Brute force
+* Rainbow table
+
+
+## Phishing 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
