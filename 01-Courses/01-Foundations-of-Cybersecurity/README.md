@@ -97,13 +97,27 @@ In order to achieve social engineering you need to follow a few tactics 1st is a
    Phishing is the use of digital communications to trick people into revealing sensitive data of deploying malicious software Types of phishing Business email compromise (BEC) is when a threat actor sends an email message that seems to be from known source to make a seemingly a true request for information , in order to obtain a financial advantage. Spear phishing is a malicious email attack that targets a specific user or group of users. The email seems to originate from a trusted source. Whaling is also a form of spear phishing . It is when a threat actors targets company executives to gain access to sensitive data . Vishing its is the exploitation of electronic voice communication to obtain sensitive information or impersonate a known source. Smishing is the use of text messages to trick users in order to obtain sensitive information.
 
 
+### Malware
+malware is a malicious software designed to harm networks and devices
+common types of malware:
 
+**Worms:** Malware that can duplicate and spread itself across systems on its own. In contrast to a virus, a worm does not need to be downloaded by a user. Instead, it self-replicates and spreads from an already infected computer to other devices on the same network.
+   
+ **Ransomware:** A malicious attack where threat actors encrypt an organization's data and demand payment to restore access. 
+   
+ **Spyware:** Malware that’s used to gather and sell information without consent. Spyware can be used to access devices. This allows threat actors to collect personal data, such as private emails, texts, voice and image recordings, and locations.
+   
+ **Viruses:** Malicious code written to interfere with computer operations and cause damage to data and software. A virus needs to be initiated by a user (i.e., a threat actor), who transmits the virus via a malicious attachment or file download. When someone opens the malicious attachment or download, the virus hides itself in other files in the now infected system. When the infected files are opened, it allows the virus to insert its own code to damage and/or destroy data in the system.
+   
 
+### Types of hackers
 
-
-
-
-
+  * Authorized hackers are also called ethical hackers. They follow a code of ethics and adhere to the law to conduct organizational risk evaluations. They are motivated to safeguard people and organizations from malicious threat actors.
+ 
+  * Semi-authorized hackers are considered researchers. They search for vulnerabilities but don’t take advantage of the vulnerabilities they find.
+   
+  * Unauthorized hackers are also called unethical hackers. They are malicious threat actors who do not follow or respect the law. Their goal is to collect and sell confidential data for financial gain. 
+   
 
 
 
