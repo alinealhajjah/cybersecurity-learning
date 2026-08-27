@@ -1,6 +1,6 @@
 # Cybersecurity Courses
 
-This section documents the cybersecurity courses I have completed and the key concepts and skills I learned from each course.
+This section of my learning repository documents the cybersecurity courses I have completed and the key concepts and skills I learned from each course.
 
 **These courses are authorized by google and offered through coursera**
 
