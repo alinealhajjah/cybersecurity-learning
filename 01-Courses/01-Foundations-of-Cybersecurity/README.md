@@ -245,8 +245,8 @@ Performing application security tests can help ensure vulnerabilities are identi
   
 * Their purpose includes protecting  (PII), securing financial information, identifying security weaknesses, managing organizational risks, and aligning security with business goals.
 
-### **Compliance** is the process of adhering to internal standards and external regulations.
-### **Security controls** are safeguards designed to reduce specific security risks.
+ **Compliance** is the process of adhering to internal standards and external regulations.
+ **Security controls** are safeguards designed to reduce specific security risks.
 
 
 ## Specific Controls, frameworks and Compliance
