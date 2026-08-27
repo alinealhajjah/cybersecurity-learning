@@ -1,1 +1,1 @@
-
+This security audit was completed as part of the Google Cybersecurity Professional Certificate. The scenario is summarized in my own words, and the analysis, findings, and recommendations presented here reflect my completed work. Original course-provided materials are not included.
