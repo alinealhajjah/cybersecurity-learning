@@ -237,6 +237,54 @@ Security must be incorporated into each element of the software development life
 
 Performing application security tests can help ensure vulnerabilities are identified and mitigated accordingly. Having a system in place to test the programming conventions, software executables, and security measures embedded in the software is necessary. Having quality assurance and pen tester professionals ensure the software has met security and performance standards is also an essential part of the software development process. For example, an entry-level analyst working for a pharmaceutical company might be asked to make sure encryption is properly configured for a new medical device that will store private patient data . 
 
+---
+
+## Security Frameworks
+
+* Security frameworks are guidelines for building plans to mitigate risks and threats to data and privacy, providing a structured approach to implementing a security lifecycle.
+  
+* Their purpose includes protecting  (PII), securing financial information, identifying security weaknesses, managing organizational risks, and aligning security with business goals.
+
+### **Compliance** is the process of adhering to internal standards and external regulations.
+### **Security controls** are safeguards designed to reduce specific security risks.
+
+
+## Specific Controls, frameworks and Compliance
+
+The national institute of standards and technology (NIST) develops multiple voluntary compliance frameworks that organizations  worldwide can use to help manage risk. The more aligned an organization is with compliance, the lower the risk.
+
+
+ * The Federal Energy Regulatory Commission - North American Electric Reliability Corporation (FERC-NERC)
+
+* The Federal Risk and Authorization Management Program (FedRAMP®)
+
+
+* Center for Internet Security (CIS®)
+
+* General Data Protection Regulation (GDPR)**
+
+
+* Payment Card Industry Data Security Standard (PCI DSS)**
+
+
+* The Health Insurance Portability and Accountability Act (HIPAA)
+
+
+* International Organization for Standardization (ISO)
+
+
+* System and Organizations Controls (SOC type 1, SOC type 2)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
