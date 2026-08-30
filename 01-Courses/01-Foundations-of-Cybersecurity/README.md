@@ -276,17 +276,33 @@ The national institute of standards and technology (NIST) develops multiple volu
 * System and Organizations Controls (SOC type 1, SOC type 2)
 
 
+## Ethical concerns and laws related to counterattacks 
 
+ I will not add much details but we should know that counter attacks laws differ from a country to another but **USA** standpoint is that counter attacks are an act of vigilantism. A vigilante is a person who is not a member of law enforcement who decides to stop a crime on their own. And because threat actors are criminals, counterattacks can lead to further escalation of the attack, which can cause even more damage and harm.
 
+**International standpoint on counterattacks**
 
+The International Court of Justice (ICJ), which updates its guidance regularly, states that a person or group can counterattack if: 
 
+* The counterattack will only affect the party that attacked first.
+* The counterattack is a direct communication asking the initial attacker to stop.
+* The counterattack does not escalate the situation.
+* The counterattack effects can be reversed.
 
+To summarize this, counter attacks are generally disapproved or illegal. in this industry we have frameworks and controls that protects the  CIA triad.
 
+CIA
 
+Confidentiality: means only authorized users can access specific assets or data
 
+Integrity: means that data is authentic and reliable
 
+Availability: means data is accessible to those who are authorized to access it
 
+Asset: is an item perceived as having value to an organization
 
+lastly, in this course i also learned about SIEM tools , packet sniffers and playbooks
+I will talk about them more in detail in the next courses.
 
 
   
