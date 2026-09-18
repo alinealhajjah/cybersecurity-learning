@@ -34,12 +34,19 @@ compatible with the physical connection provided by your ISP
 <img width="949" height="361" alt="image" src="https://github.com/user-attachments/assets/4140bec1-023d-4cd7-87c3-df533b627a8c" />
 
 
+### cloud computing 
+
+on premise networks are company owned , which means all operations are kept in a physical location.
+A cloud service provider (CSP) is a company that offers cloud computing services. These companies  own large data centers in locations around the globe that house millions of servers. Data centers provide technology services, such as storage, and compute at such a large scale that they can sell their services to other companies for a fee. Companies can pay for the storage and services they need and consume them through the CSP’s application programming interface (API) or web console.
+
+CSPs provide three main categories of services:
+
+* software as service (SaaS)
+* infrastructure as service(LaaS)
+* Platform as a service (PaaS)
 
 
-
-
-
-
+<img width="797" height="330" alt="image" src="https://github.com/user-attachments/assets/1218734e-a1b6-4889-8bd1-1ee78e68712a" />
 
 
 
