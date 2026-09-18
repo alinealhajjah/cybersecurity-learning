@@ -40,6 +40,86 @@ You frequently sign into your bank account to check your balances --> availabili
 You must use two factor authentication before signing into an employee portal-->confidentiality
 
 
+### Frameworks and controls 
+
+Firstly, they are guidelines used for building plans to mitigate risks and threats.There are many different frameworks and controls that organizations can use to remain compliant with regulations and achieve their security goals.
+
+**Specific frameworks**
+
+* cyber threat framework(CTF)
+* International Organization for Standardization/International Electrotechnical Commission (ISO/IEC) 27001
+*  NIST Risk Management Framework (RMF)
+*  The Cybersecurity Framework (CSF) and Special Publication (SP) 800-53.
+*   NIST Special Publication (SP) 800-53
+
+
+
+**Controls**
+
+Controls are used alongside frameworks to reduce the possibility and impact of a security threat, risk, or vulnerability. Controls can be physical, technical, and administrative and are typically used to prevent, detect, or correct security issues.
+
+Examples of physical controls:
+
+- Gates, fences, and locks
+    
+- Security guards
+    
+- Closed-circuit television (CCTV), surveillance cameras, and motion detectors
+    
+- Access cards or badges to enter office spaces
+    
+
+Examples of technical controls:
+
+- Firewalls
+    
+- MFA
+    
+- Antivirus software
+    
+
+Examples of administrative controls:
+
+- Separation of duties
+    
+- Authorization
+    
+- Asset classification
+
+
+### Security principles 
+
+
+- **Minimize attack surface area**: Attack surface refers to all the potential vulnerabilities a threat actor could exploit.
+    
+- **Principle of least privilege**: Users have the least amount of access required to perform their everyday tasks.
+    
+- **Defense in depth**: Organizations should have varying security controls that mitigate risks and threats.
+    
+- **Separation of duties**: Critical actions should rely on multiple people, each of whom follow the principle of least privilege. 
+    
+- **Keep security simple**: Avoid unnecessarily complicated solutions. Complexity makes security difficult. 
+    
+- **Fix security issues correctly**: When security incidents occur, identify the root cause, contain the impact, identify vulnerabilities, and conduct tests to ensure that remediation is successful.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
