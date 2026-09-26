@@ -49,6 +49,54 @@ CSPs provide three main categories of services:
 <img width="797" height="330" alt="image" src="https://github.com/user-attachments/assets/1218734e-a1b6-4889-8bd1-1ee78e68712a" />
 
 
+### what are the benefits of cloud computing ? 
+
+* Reliability --> secure connections , servers always running , availability
+
+* cost -->  CSPs have such large data centers, they are able to offer virtual devices and services at a fraction of the cost required for companies to install, patch, upgrade, and manage the components and software themselves.
+
+* Scalability -->  companies only pay for what they need when they need it
+
+
+
+### Internet protocol (IP)
+A set of standards used for routing and addressing data packets as they travel between devices on a network 
+
+- IP provides standards for routing and addressing data packets as they move across a network.
+- Each private network device is assigned an IP address, which functions as its unique identifier
+
+
+
+**now we got to the important stuff**
+
+
+### TCP/IP Model 
+
+
+ The TCP/IP model is a framework that helps understand how data is structured and sent over a network.
+ 
+- It consists of four distinct layers:
+  
+ **the network access layer** --> This layer is responsible for creating data packets and transmitting them across the network, involving hardware devices, cables, and switches.
+  
+  **Internet Layer**: At this layer, IP addresses are assigned to data packets to specify sender and receiver locations, and it determines how networks connect.
+
+**Transport Layer**: This layer manages the flow of traffic and includes protocols for controlling communication between devices, as well as error control to ensure smooth data flow.
+
+ **Application Layer**: This final layer defines how data packets interact with receiving devices, handling functions like file transfers and email services
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
