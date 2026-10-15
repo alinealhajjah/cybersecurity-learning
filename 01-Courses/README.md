@@ -4,8 +4,4 @@ This section of my learning repository documents the cybersecurity courses I hav
 
 **These courses are authorized by google and offered through coursera**
 
-1- foundations of cybersecurity 
-
-2- play it safe - manage security risks
-
-3- connect and protect : networks and network secuirty
+**Note**: i won't be adding everything i learned cuz that would be unnecessary, so it will be more of skills i gained, practice exercises i solved while studying  and summaries. 
